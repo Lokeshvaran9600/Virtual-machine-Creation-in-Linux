@@ -31,16 +31,21 @@ Check the Current Working Directory
 pwd
 ```
 Create a New Directory
-```mkdir my_experiment
+```
+mkdir my_experiment
 ```
 Navigate into the Directory
-```cd my_experiment
+```
+cd my_experiment
 ```
 List the Files in the Directory
-```ls```
+```
+ls
+```
 
 Write Some Text into the File
-```echo "Hello, this is a test file." > myfile.txt
+```
+echo "Hello, this is a test file." > myfile.txt
 ```
 Read the File Contents
 ```cat myfile.txt```
