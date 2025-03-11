@@ -48,12 +48,18 @@ Write Some Text into the File
 echo "Hello, this is a test file." > myfile.txt
 ```
 Read the File Contents
-```cat myfile.txt```
+```
+cat myfile.txt
+```
 Get the Current Date and Time
-```date```
+```
+date
+```
 Writing a Bash Script in Mousepad
 Open Mousepad
-```mousepad myscript.sh &```
+```
+mousepad myscript.sh &
+```
 Write the Bash Script
 ```
 #!/bin/bash 
